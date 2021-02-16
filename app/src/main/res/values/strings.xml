@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dynamic RecyclerView</string>
+    <string name="appStats">Stats</string>
+    <string name="usersAge">Users</string>
+    <string name="issues">Issues</string>
+</resources>
